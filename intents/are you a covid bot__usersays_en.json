@@ -1,0 +1,54 @@
+[
+  {
+    "id": "40ca154c-17cf-46dd-a746-c1bc5b9de167",
+    "data": [
+      {
+        "text": "are you a covid bot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cd5fc42-c23c-48a5-809b-05af76a17593",
+    "data": [
+      {
+        "text": "what do you do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55c3425b-1e75-4cfa-ae1c-465db0093c21",
+    "data": [
+      {
+        "text": "what can you help me with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59ed0aba-046c-462f-af83-6abee500bfb1",
+    "data": [
+      {
+        "text": "who are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
